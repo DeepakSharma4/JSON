@@ -1,11 +1,14 @@
 package com.example.hp.json;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.widget.ArrayAdapter;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.ListView;
 
 import java.util.ArrayList;
+
+/**
+ * Created by hp on 4/29/2017.
+ */
 
 public class next extends AppCompatActivity {
     private ListView lst;
